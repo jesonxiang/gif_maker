@@ -1,1 +1,1 @@
-# gif_maker
+A simple GIF maker, compress supported
