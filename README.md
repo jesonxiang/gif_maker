@@ -1,1 +1,1 @@
-A simple GIF maker, compress supported
+A simple GIF maker, compressing supported
